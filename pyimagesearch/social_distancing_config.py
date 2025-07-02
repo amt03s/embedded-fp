@@ -3,7 +3,7 @@ MODEL_PATH = "mobilenet-ssd-folder"
 
 # initialize minimum probability to filter weak detections along with
 # the threshold when applying non-maxima suppression
-MIN_CONF = 0.3
+MIN_CONF = 0.2
 NMS_THRESH = 0.3
 
 # boolean indicating if NVIDIA CUDA GPU should be used
