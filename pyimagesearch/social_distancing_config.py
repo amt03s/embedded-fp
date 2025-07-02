@@ -1,5 +1,5 @@
 # base path to YOLO directory
-MODEL_PATH = "yolo-coco"
+MODEL_PATH = "mobilenet-ssd-folder"
 
 # initialize minimum probability to filter weak detections along with
 # the threshold when applying non-maxima suppression
